@@ -1,2 +1,2 @@
-# food_pred
-Food demand Prediction Machine learning project
+# Food demand prediction
+Food demand Prediction Machine learning project.
